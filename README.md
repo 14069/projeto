@@ -1,1 +1,3 @@
 sistema para gerenciar dados pessoais, informações de eventos...
+Projeto desenvolvido na disciplina de Programação Orientada à Objetos.
+Ministrada por: Professor Rogério
